@@ -1,0 +1,104 @@
+*{/*todos os elementos da pagina*/
+margin:0px;
+padding:0px;
+}
+body{
+	background-color:#eee9e9;
+	background-image:url('../images/back1.jpg');
+	background-repeat:no-repeat;
+	background-size:percentages;
+}
+header{
+	width:100%;
+	height:180px;
+}
+#logo{
+	width:100%;
+	height:141px;
+	margin:50px;
+	float:left;
+}
+#kit{
+	width:100%;
+	height:50px;
+	text-align:center;
+	font-family:impact;
+	font-size:30px;
+	color:black;
+	margin-top:90px;
+}
+#alarme{
+	width:100%;
+	height:100px;
+	margin-top:30px;
+	margin-left:558px;
+}
+#produtos{
+	min-height:300px;
+	margin:70px;
+	text-align:center;
+	font-family:impact;
+	font-size:30px;
+	color:#000066;
+	margin-top:150px;
+}
+#kitcam{
+	width:100%;
+	height:50px;
+	text-align:center;
+	font-family:impact;
+	font-size:30px;
+	color:black;
+	margin-top:60px;
+}
+#monitor{
+	width:100%;
+	height:100px;
+	margin-top:30px;
+	margin-left:558px;
+}
+#serviços{
+	min-height:300px;
+	margin:70px;
+	text-align:center;
+	font-family:impact;
+	font-size:30px;
+	color:#000066;
+	margin-top:150px;
+}
+nav{
+	width:100%;
+	height:60px;
+	padding-top:10px;
+	border-radius:10px;
+	margin-top:10px;
+}
+nav ul li{
+	display:inline;
+	margin-left:50px;
+}
+nav ul li a{
+	
+	font-size:30px;
+	font-family:impact;
+	height:80px;
+	color:#000099;
+}
+nav ul li a:hover{
+	height:60px;
+	border:2px solid #000099;
+	padding:5px 1px;
+}
+footer{
+	font-family:impact;
+	color:black;
+	font-size:16px;
+	text-align:center;
+}
+#fot{
+	font-family:impact;
+	color:black;
+	font-size:16px;
+	text-align:center;
+	margin-top:300px;
+}
